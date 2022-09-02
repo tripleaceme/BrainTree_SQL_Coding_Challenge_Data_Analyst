@@ -43,7 +43,7 @@ Finally, this is NOT an MS Excel/spreadsheet exercise. Excel is an important dat
 <p>
 
 
-You can download the MySQL Code [here](#)
+You can download the MySQL Code [here](https://github.com/tripleaceme/BrainTree_SQL_Coding_Challenge_Data_Analyst/blob/main/SQL%20Query/Question%201.sql)
 
 </p>
 </details>
@@ -65,7 +65,7 @@ The list should include the columns:
 <p>
 
 
-You can download the MySQL Code [here](#)
+You can download the MySQL Code [here](https://github.com/tripleaceme/BrainTree_SQL_Coding_Challenge_Data_Analyst/blob/main/SQL%20Query/Question%202.sql)
 
 </p>
 </details>
@@ -83,7 +83,7 @@ You can download the MySQL Code [here](#)
 <p>
 
 
-You can download the MySQL Code [here](#)
+You can download the MySQL Code [here](https://github.com/tripleaceme/BrainTree_SQL_Coding_Challenge_Data_Analyst/blob/main/SQL%20Query/Question%203.sql)
 
 </p>
 </details>
@@ -97,7 +97,7 @@ You can download the MySQL Code [here](#)
 <p>
 
 
-You can download the MySQL Code [here](#)
+You can download the MySQL Code [here](https://github.com/tripleaceme/BrainTree_SQL_Coding_Challenge_Data_Analyst/blob/main/SQL%20Query/Question%204.sql)
 
 </p>
 </details>
@@ -113,7 +113,7 @@ You can download the MySQL Code [here](#)
 <p>
 
 
-You can download the MySQL Code [here](#)
+You can download the MySQL Code [here](https://github.com/tripleaceme/BrainTree_SQL_Coding_Challenge_Data_Analyst/blob/main/SQL%20Query/Question%205.sql)
 
 </p>
 </details>
@@ -147,7 +147,7 @@ d. return only the first record from the ordered list for which each continent's
 <p>
 
 
-You can download the MySQL Code [here](#)
+You can download the MySQL Code [here](https://github.com/tripleaceme/BrainTree_SQL_Coding_Challenge_Data_Analyst/blob/main/SQL%20Query/Question%206.sql)
 
 </p>
 </details>
@@ -170,7 +170,7 @@ rank | continent_name | country_code | country_name | avg_gdp_per_capita
 <p>
 
 
-You can download the MySQL Code [here](#)
+You can download the MySQL Code [here](https://github.com/tripleaceme/BrainTree_SQL_Coding_Challenge_Data_Analyst/blob/main/SQL%20Query/Question%207.sql)
 
 </p>
 </details>
