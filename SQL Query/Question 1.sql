@@ -4,7 +4,12 @@
 
 - For all countries that have multiple rows in the continent_map table, delete all multiple records leaving only the 1 record per country. The record that you keep should be the first one when sorted by the continent_code alphabetically ascending. Provide the query/ies and explanation of step(s) that you follow to delete these records.
 */
-CREATE DATABASE BrainTree
+
+-- Performing my Analysis in MySQL
+
+CREATE DATABASE BrainTree_Challenge;
+
+Use BrainTree_Challenge;
 
 CREATE TABLE `braintree`.`continent_map` (`country_code` text, `continent_code` text);
 PREPARE stmt FROM 'INSERT INTO `braintree`.`continent_map` (`continent_code`,`country_code`) VALUES(?,?)'
