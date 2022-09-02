@@ -176,4 +176,5 @@ You can download the MySQL Code [here](https://github.com/tripleaceme/BrainTree_
 </details>
 
 
+Solution to all questions in one file is [here](https://github.com/tripleaceme/BrainTree_SQL_Coding_Challenge_Data_Analyst/blob/main/SQL%20Query/All%20Solutions.sql)
 Thank you.
